@@ -46,7 +46,7 @@ section button:hover{
 section {
     color: #000;
     height: 500px;
-    background-image: url('/Img/Coding.jfif');
+    background-image: url('./Img/Coding.jfif');
     padding: 10px;
     text-align: center;
 }
